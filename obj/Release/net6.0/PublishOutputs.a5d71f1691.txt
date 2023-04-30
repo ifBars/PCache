@@ -1,0 +1,3 @@
+C:\Users\ghost\source\repos\PCache\PCache\bin\Release\net6.0\publish\PCache.dll
+C:\Users\ghost\source\repos\PCache\PCache\bin\Release\net6.0\publish\PCache.deps.json
+C:\Users\ghost\source\repos\PCache\PCache\bin\Release\net6.0\publish\PCache.pdb
